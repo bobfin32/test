@@ -10,3 +10,4 @@ mR  <- mean(returns_AAPL[-1])
 sdR <- sd(returns_AAPL[-1])
 mR
 sdR
+boxplot(cars$speed)
